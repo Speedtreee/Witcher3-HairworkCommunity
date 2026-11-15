@@ -1,0 +1,25 @@
+{
+ "name": "triss-red-pt",
+ "author": "Speedtreee",
+ "version": "1.0.0",
+ "status": "ready",
+ "character": "triss",
+ "slot": "c_01_wa__triss",
+ "base_build": "triss_l82_fe_user1b",
+ "tags": [
+  "female",
+  "long",
+  "red",
+  "ginger",
+  "path-tracing",
+  "performance"
+ ],
+ "studio_version": "0.5.0",
+ "description": "Fork of jlrouzies-fr triss-aio-020 (Hairwork for All). Red/ginger root + tip colour instead of brown, warmer specular, and 12 instead of 20 CVs per guide (kept CVs picked to hug the scalp) for about 40% less path-traced hair cost in close-ups. Same guides, faces and physics. Needs Hairwork for All Core and the long hair Triss mod (Nexus 6457).",
+ "mesh_fingerprint": {
+  "guides": 246,
+  "faces": 441
+ },
+ "based_on": "jlrouzies-fr__triss-aio-020@9d8940d",
+ "based_on_version": "1.0.0"
+}
